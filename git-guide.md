@@ -4,6 +4,8 @@ The plan: use this GitHub repo to store the Unreal project. I have set up variou
 
 This doc will tell you how to set up your own stuff, and how to actually use git during this game jam.
 
+*Note*: In addition to the instructions below, someone will need to create the Unreal project and push it to this repo!
+
 ## Setup
 
 There are three important steps you need to follow before you can use this repo!
