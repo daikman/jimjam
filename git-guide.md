@@ -26,7 +26,7 @@ The first thing you need is a github account! Then you should tell me (David) yo
 
 #### Git client
 
-A git client is just a way to use git. There are many options for this, and we don't all need to do it the same way. But I am recommending using **Github Desktop**. It just seems like the best way from my research! You can install it [here](https://desktop.github.com/download/). 
+A git client is just a way to use git. There are many options for this, and we don't all need to do it the same way. But I am recommending using **Github Desktop**. It just seems like the best way from my research! You can install it [here](https://desktop.github.com/download/). (If you are not use GitHub Desktop, make sure you have [git LFS installed](https://docs.github.com/en/repositories/working-with-files/managing-large-files/installing-git-large-file-storage))
 
 An **important setup** step is cloning (i.e., downloading) this repo, which you can do from within Github Desktop. 
 
