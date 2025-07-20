@@ -46,12 +46,12 @@ This is the workflow I am suggesting:
 1. Make a branch for yourself
 2. Do some work on the project
 3. Whenever you do something significant, push your work to this repo
-    a. *Commit* your changes to your branch
-    b. *Checkout* (switch to) the main branch
-    c. *Pull*/*fetch* any new changes to the main branch
-    d. *Merge* you branch into the main branch
-    e. *Push* your changes to the main branch onto GitHub
+    1. *Commit* your changes to your branch
+    2. *Checkout* (switch to) the main branch
+    3. *Pull*/*fetch* any new changes to the main branch
+    4. *Merge* you branch into the main branch
+    5. *Push* your changes to the main branch onto GitHub
 4. Repeat steps 2-3
 
-Step 3 is a little bit complicated, so [here is a video](https://www.youtube.com/watch?v=Btu0SuwPmz0) of someone merging a branch into the main branch. He misses step c, which you can do by just clicking the 'Fetch origin' button at the top.
+Step 3 is a little bit complicated, so [here is a video](https://www.youtube.com/watch?v=Btu0SuwPmz0) of someone merging a branch into the main branch with Github Desktop. He misses step 3.3, which you can do by clicking the 'Fetch origin' button at the top after switching to the main branch.
 
