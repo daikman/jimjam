@@ -39,6 +39,7 @@
 # Windows
 ehthumbs.db
 Thumbs.db
+!*.txt
 
 # Mac OS X
 .DS_Store
