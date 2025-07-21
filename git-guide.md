@@ -12,7 +12,7 @@ There are three important steps you need to follow before you can use this repo!
 
 1. Install git
 2. Set up how you will use git
-3. Enable 'One File Per Actor' in Unreal
+3. ~~Enable 'One File Per Actor' in Unreal~~ (not needed actually)
 
 ### Install git
 
@@ -29,10 +29,6 @@ The first thing you need is a github account! Then you should tell me (David) yo
 A git client is just a way to use git. There are many options for this, and we don't all need to do it the same way. But I am recommending using **Github Desktop**. It just seems like the best way from my research! You can install it [here](https://desktop.github.com/download/). (If you are not use GitHub Desktop, make sure you have [git LFS installed](https://docs.github.com/en/repositories/working-with-files/managing-large-files/installing-git-large-file-storage))
 
 An **important setup** step is cloning (i.e., downloading) this repo, which you can do from within Github Desktop. 
-
-### Enable One File Per Actor in Unreal
-
-Tbh, I don't really know what this means, but it is recommended in a lot of places for use with git. Here is a [nice official guide](https://dev.epicgames.com/documentation/en-us/unreal-engine/one-file-per-actor-in-unreal-engine?application_version=5.0) about it!
 
 
 ## Actually using git
